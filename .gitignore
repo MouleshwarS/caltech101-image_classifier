@@ -1,0 +1,19 @@
+# CalTech-101 raw dataset files
+data/
+caltech101/
+
+# Model checkpoints (files >100 MB will be rejected by GitHub)
+models/*.pth
+*.pth
+*.pt
+
+# Python caches and notebook artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+env/
+
+# HF deployment folder (already pushed to Spaces)
+huggingface_space/

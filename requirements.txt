@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+torchinfo
+scikit-learn
+grad-cam
+numpy
+matplotlib
+seaborn
+tensorboard
+gradio
+pandas
+Pillow
