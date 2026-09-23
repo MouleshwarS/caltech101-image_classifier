@@ -8,7 +8,7 @@ Experience the deployed model in action via an interactive Gradio web interface 
 ## Model Evaluation and Hardware 📊
 
 ### Hardware & Environment
-* **Compute:** Single NVIDIA RTX 4060 Laptop GPU
+* **Compute:** Intel i7 13700H machine equipped with 32 GB of RAM and an 8 GB NVIDIA RTX 4060 Laptop GPU
 * **Framework:** PyTorch 2.13.0+cu132
 * **Environment:** JupyterLab
 
