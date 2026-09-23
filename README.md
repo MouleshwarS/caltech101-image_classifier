@@ -1,4 +1,4 @@
-# CalTech-101 Image Classifier 
+# CalTech-101 Image Classifier 🚀
 A deep learning image classification pipeline utilizing a fine-tuned **ConvNeXt** architecture to classify images into 102 categories from the CalTech-101 dataset.
 
 ## Live Demo 🌐
